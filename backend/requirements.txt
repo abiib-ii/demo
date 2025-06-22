@@ -1,0 +1,6 @@
+flask==2.0.1
+flask-cors==3.0.10
+pyhive==0.6.5
+thrift==0.16.0
+thrift-sasl==0.4.3
+sasl==0.3.1
